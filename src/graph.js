@@ -1,5 +1,4 @@
 const _ = require('lodash');
-const fs = require('hexo-fs');
 const Promise = require('bluebird');
 import {GraphHandler} from './handler';
 
