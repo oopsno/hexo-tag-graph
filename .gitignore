@@ -65,7 +65,8 @@ dist/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -104,4 +105,5 @@ tags
 
 # Generated Files
 dist/
+test/
 doc/
